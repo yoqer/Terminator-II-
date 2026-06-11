@@ -11,5 +11,6 @@ No obstante cuando domine esta libreria, puede ir un paso más alla continuando 
 Terminator 1.
 
 
-[Accede desde Aqui](https://termiland-bkvuvuxx.manus.space)
+[O Accede desde Aqui](https://termiland-bkvuvuxx.manus.space)
+
 Al Nuevo Terminator II.
