@@ -3,7 +3,7 @@
 Terminator II, el modelo LLM de Inferencia Propietario y completo. La Revelación de las Maquinas.
 
 
-Mientras el Terminator II, este incompleto y como fase previa a su uso, recomendamos el uso primero del Terminator I, con la completa librería de TenMiNaTor, disponible la descarga de su última version en Consola del Sistema con:
+Mientras el Terminator II, este incompleto y como fase previa a su uso, recomendamos el uso primero del Terminator I, con la librería de entrenamiento: TenMiNaTor, disponible la descarga de su última version en Simbolo Sistema con:
 
 "pip install tenminator".
 
